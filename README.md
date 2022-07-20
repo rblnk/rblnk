@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Szymon 👋</h1>
 <h3 align="center">A Computer Science student</h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m still learning **Python**, **Java**
 
 
 <h3 align="left">Languages and Tools:</h3>
